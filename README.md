@@ -35,8 +35,8 @@ This repository contains the MATLAB implementation for **Lab Homework 4**, focus
 ---
 
 	Ensure all files are in the same folder
-o	lab4homework.m
-o	brain.jpg
+	lab4homework.m
+	brain.jpg
 
 ##  **How to Run**
 
