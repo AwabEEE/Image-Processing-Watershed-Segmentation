@@ -1,10 +1,10 @@
-# 🧠 BMED469 – Biomedical Image Processing – Lab Homework 4
+#  BMED469 – Biomedical Image Processing – Lab Homework 4
 
 This repository contains the MATLAB implementation for **Lab Homework 4**, focused on **Watershed Segmentation** from the **BMED469 Biomedical Image Processing** course.
 
 ---
 
-## 📌 **Objective**
+##  **Objective**
 
 - **Understand and apply Watershed Segmentation** in MATLAB.
 - **Explore preprocessing techniques** (Gaussian filtering, morphological operations).
@@ -13,17 +13,17 @@ This repository contains the MATLAB implementation for **Lab Homework 4**, focus
 
 ---
 
-## 📷 **Screenshots**
+##  **Screenshots**
 
-### ✅ **Screenshot 1 – Segmentation Output**
+###  **Screenshot 1 – Segmentation Output**
 ![Segmentation Output](Screenshot1.png)
 
-### ✅ **Screenshot 2 – MATLAB Code**
+###  **Screenshot 2 – MATLAB Code**
 ![MATLAB Code](Screenshot2.png)
 
 ---
 
-## 📁 **Files in This Repository**
+##  **Files in This Repository**
 
 | **File Name**        | **Description**                                 |
 |----------------------|-------------------------------------------------|
@@ -34,7 +34,7 @@ This repository contains the MATLAB implementation for **Lab Homework 4**, focus
 
 ---
 
-## ▶️ **How to Run**
+##  **How to Run**
 
 1. **Place all files in the same directory**.
 2. **Open MATLAB**.
